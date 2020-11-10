@@ -65,7 +65,7 @@ This section contains components description of this app.
 
 ### Workspace
 
-This is the tools I used during the development of this microservice :
+This is the tools I used during the development of this app :
 
 | Workspace & Tools | Link |
 | ------ | ------ |
